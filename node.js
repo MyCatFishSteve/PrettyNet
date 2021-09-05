@@ -175,8 +175,7 @@ function nodeback_func_resize() {
 function nb_func_init() {
 
 	// Print out legal information before continuing...
-	console.log("[Nodeback] Copyright (C) 2016 mycat, All Rights Reserved.");
-	console.log("[Nodeback] This software is licensed under GPL v2.");
+	console.log("[Nodeback] Licenced under WTFPL 2016-2021.");
 
 	if(!nb_func_checkjquery())
 		return -1;
